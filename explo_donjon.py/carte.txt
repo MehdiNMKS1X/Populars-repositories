@@ -1,0 +1,5 @@
+Taille : 10
+Monstre A : 2,3
+Monstre C : 7,7
+Monstre B : 3,3 ; 7,8 ; 4,4
+Monstre J : 6,1

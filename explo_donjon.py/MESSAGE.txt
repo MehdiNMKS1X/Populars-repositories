@@ -1,0 +1,22 @@
+#A utiliser dans votre code
+MESSAGE_BIENVENUE = "### Nouvelle partie initiée ! ###\nBienvenue dans l'exploration de donjon !\n"
+
+MESSAGE_INPUT = "Choisissez la difficulté (0: Facile, 1: Moyen, 2: Difficile) : "
+MESSAGE_INPUT_ERREUR = "Seulement 4 déplacements possibles (h: haut, b: bas, g: gauche, d: droite : "
+
+MESSAGE_PIEGE = "Attention ! Nous avons détecté {pieges_adjacents} piège(s) dans les cases adjacentes."
+
+MESSAGE_AJOUT_UN_MONSTRE = f"1 monstre {symbole_monstre} avec {degats_monstre} est ajouté à l'emplacement {position_monstre}"
+
+MESSAGE_AJOUT_DES_MONSTRES = f"{nombre_monstre} monstres avec {degats_monstre} sont ajoutés aux emplacements {position_monstre}"
+
+MESSAGE_VICTOIRE = "Félicitations, vous avez collecté tous les trésors !"
+
+MESSAGE_DEFAITE = "Vous êtes mort... Game over !"
+
+MESSAGE_RENCONTRE = f"Vous rencontrez un monstre {monstre_combattu_symbole} ! Vous perdez {monstre_combattu_degats} points de vie.
+
+
+#A utiliser dans afficher_grille
+
+MESSAGE_VIE_TRESOR = f"Vie(s) : {vie_personnage}, Trésor(s) restant(s) : {tresors_restants}" #Vie & Trésors restants
