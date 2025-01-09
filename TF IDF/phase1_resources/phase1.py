@@ -1,10 +1,3 @@
-"""
-Matricule : 000590380
-prenom : Mehdi
-Nom: Vivier
-Section : B1-info
-
-"""
 import zipfile
 import os
 
